@@ -10,11 +10,10 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 
-- **1b)**
-**Work:** O((V + E) * log V)
+**1b)**
 
-  
-**Span:** O(V * log V)
+- **Work:** O((V + E) * log V)
+- **Span:** O(V * log V)
 
 
 - **2b)**
